@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains Jupyter notebooks created for the RAND School of Public Policy course, "420: Text Analytics."
+This repository contains Jupyter notebooks created for RAND School of Public Policy Course 420: Text Analytics.
 
 ## Course Description
 
