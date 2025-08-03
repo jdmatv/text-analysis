@@ -63,7 +63,3 @@ You can install these packages using pip:
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Author
-
-- **J. Matveyenko**
